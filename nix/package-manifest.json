@@ -17,7 +17,7 @@
     "name": "wordcraft"
   },
   "meta": {
-    "description": "Wordcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "description": "WordCraft, an open-source creative app from the ArtCraft Craft app suite",
     "homepage": "https://github.com/storytold/wordcraft",
     "licenseSpdx": "MIT OR Apache-2.0"
   }
