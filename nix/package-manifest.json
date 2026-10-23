@@ -1,0 +1,24 @@
+{
+  "source": {
+    "type": "github-release",
+    "owner": "storytold",
+    "repo": "wordcraft",
+    "version": "0.10.0",
+    "tag": "v0.10.0",
+    "archive": "wordcraft-0.10.0-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/wordcraft/releases/download/v0.10.0/wordcraft-0.10.0-linux-x86_64.tar.gz",
+    "hash": "sha256-ypnqNQugrqQQP8gCDK2Y8FHFjZ6fz2cMEZ2BAQjMRf8="
+  },
+  "package": {
+    "repo": "wordcraft",
+    "version": "0.10.0"
+  },
+  "binary": {
+    "name": "wordcraft"
+  },
+  "meta": {
+    "description": "Wordcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "homepage": "https://github.com/storytold/wordcraft",
+    "licenseSpdx": "MIT OR Apache-2.0"
+  }
+}
