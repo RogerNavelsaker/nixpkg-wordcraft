@@ -3,15 +3,15 @@
     "type": "github-release",
     "owner": "storytold",
     "repo": "wordcraft",
-    "version": "0.10.0",
-    "tag": "v0.10.0",
-    "archive": "wordcraft-0.10.0-linux-x86_64.tar.gz",
-    "url": "https://github.com/storytold/wordcraft/releases/download/v0.10.0/wordcraft-0.10.0-linux-x86_64.tar.gz",
-    "hash": "sha256-ypnqNQugrqQQP8gCDK2Y8FHFjZ6fz2cMEZ2BAQjMRf8="
+    "version": "0.19.1",
+    "tag": "v0.19.1",
+    "archive": "wordcraft-0.19.1-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/wordcraft/releases/download/v0.19.1/wordcraft-0.19.1-linux-x86_64.tar.gz",
+    "hash": "sha256-7I2MwrkgSsA9E4DOyRDe/fLohQ2T6bh9YYTq/vYZaLQ="
   },
   "package": {
     "repo": "wordcraft",
-    "version": "0.10.0"
+    "version": "0.19.1"
   },
   "binary": {
     "name": "wordcraft"
